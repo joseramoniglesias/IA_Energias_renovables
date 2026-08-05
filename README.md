@@ -9,9 +9,13 @@ Formar al Especialista en Energías Renovables que puedan tomar decisiones y opt
 ## Objetivos Específicos
 Al término del curso, los participantes habrán fortalecido su capacidad para:
 • Tendrán un contexto nacional e internacional actualizado de las energías renovables
+
 • Entender los conceptos básicos y los modelos de análisis de datos usando herramientas de machine learning.
+
 • Construir modelos analíticos basados en Deep learning y diferentes arquitecturas de redes neuronales.
+
 • Aplicar diferentes métodos en la gestión de proyectos toma de decisiones a nivel estratégico.
+
 • Entender la ética y políticas públicas de proyectos de energía.
 
 ## Estrategias Pedagogicas y Metodológicas
