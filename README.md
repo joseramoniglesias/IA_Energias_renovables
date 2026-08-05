@@ -1,4 +1,4 @@
-# IA_Energias_renovables
+# IA en las Energías Renovables
 Módulo de Inteligencia Artificial en el marco de la Especialización de Energías Renovables de la Universidad Popular del Cesar
 ## Descripción de la Asignatura
 La asignatura Inteligencia Artificial en las Energías Renovables como contenido curricular en la Especialización en Energías Renovables, es una de las opciones a tomar para cursar como asignatura Electiva II en el 2do Semestre, en el área de formación complementaria está establecida en un orden temático estructurado con el propósito de que el futuro especialista tenga la oportunidad de adquirir habilidades esenciales para abordar los desafíos actuales en el sector energético mediante el poder de la Inteligencia Artificial (IA). Los participantes aprenderán a utilizar técnicas de análisis de datos avanzadas y modelos de IA específicos para la exploración, evaluación de proyectos, así como la gestión y optimización de evaluación de proyectos de energías renovables. Además, podrán aplicar estos conocimientos para mejorar la eficiencia energética, tomar decisiones informadas, y contribuir al desarrollo sostenible en el campo de las energías renovables.
